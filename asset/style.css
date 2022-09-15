@@ -1,0 +1,63 @@
+body{
+    background-color: aqua;
+}
+
+h1 {
+    opacity: 0.7;
+    font-size: 100px;
+    position: fixed;
+    background-color: tan;
+    background-image: url(./pattern.jpeg);
+    color: blueviolet;
+    width: auto;
+    z-index: 1;
+    left: 100px;
+    top: 1px;
+    
+}
+h3 {
+    font-size: 50px;
+}
+
+.item{
+    display: block;
+    background-color: beige;
+    left: 500px;
+    
+}
+p {
+    display: block;
+    text-align: left;
+    background-color: azure;
+    font-size: 30px;
+    font-family: Helvetica;
+}
+
+#paint{
+    position: relative;
+    text-align: center;
+    top: 100px;
+    font-size: 100px;
+}
+#frames{
+    position: relative;
+        text-align: center;
+        top: 100px;
+        font-size: 100px;
+}
+#brush {
+    position: relative;
+    top: 100px;
+        text-align: center;
+        font-size: 100px;
+}
+ .price {
+    float: right;
+    font-weight: bold;
+    color: blue;
+}
+
+img{
+    border-radius: 15px;
+    
+}
